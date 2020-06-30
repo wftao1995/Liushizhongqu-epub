@@ -1,0 +1,152 @@
+.qlabel {
+    border-radius: 8px;
+    border: 2px solid #000000;
+    background: #555555;
+    color: #FFFFFF;
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight:bold;
+}
+.牌{ 
+    font-weight:bold;
+    padding:2px 5px;
+    margin:0px 5px;
+    border:2px double black;
+    background: #555555;
+    color: #FFFFFF;
+    border-radius:5px;
+    font-weight:bold;
+}
+.曲bak{
+    font-size:x-large;
+    margin-top:10px;
+    line-height:1.5em
+}
+.曲{
+    font-size:large;
+    margin-top:10px;
+    line-height:1.5em;
+    font-weight:bold;
+}
+.白bak{
+    font-size:medium;
+    margin-top:10px;
+    padding-left:2em;
+    line-height:1.5em
+}
+.白{
+    font-size:medium;
+    margin-top:10px;
+    padding-left:1.2em;
+    line-height:1.5em;
+    font-weight: normal;
+}
+.落詩bak{
+    font-size:x-large;
+    margin-top:10px;
+    padding-left:4em;
+    line-height:1.5em;
+}
+.落詩{
+    font-size:large;
+    margin-top:10px;
+    text-align:center;
+    line-height:1.5em;
+    font-weight: bold;
+}
+.科{
+    font-size:medium;
+    border:1px dotted black;
+    border-radius:5px;
+    margin:0px 5px;
+    padding:0px 5px;
+    font-weight: lighter;
+}
+.夾白{
+    font-size:medium;
+    font-weight: normal;
+}
+.詩{
+    font-size:medium;
+    margin-top:10px;
+    padding-left:1.5em;
+    line-height:1.5em;
+    font-weight: bold;
+}
+.誦{
+    font-size:large;
+    margin-top:10px;
+    padding-left:1.4em;
+    line-height:1.5em;
+    font-weight: bold;
+}
+.th2a{font-size:xx-large;margin-top:10px;font-weight:bold}
+.th2a:before{content:"❖ "}
+.劇題{font-size:xx-large;font-weight:bold}
+.卷首題{font-size:xx-large;font-weight:bold}
+.卷末題{font-size:xx-large;font-weight:bold}
+.卷末題小{font-size:medium;text-align:right}
+.th2b{margin-top:10px;margin-left:1em;font-size:xx-large;font-weight:normal}
+.th2b:before{content:"◆ "}
+.分類題{font-size:xx-large;font-weight:normal}
+.大標題{font-size:xx-large;font-weight:normal}
+.th3a{margin-top:10px;margin-left:1em;font-size:x-large;font-weight:bold}
+.th3a:before{font-size:x-large;content:"✤ "}
+.xlb{font-size:x-large;font-weight:bold}
+.齣題{font-size:x-large;font-weight:bold}
+.折題{font-size:x-large;font-weight:bold}
+.序題{font-size:x-large;font-weight:bold}
+.跋題{font-size:x-large;font-weight:bold}
+.條題{font-size:x-large;font-weight:bold}
+.詩題{font-size:x-large;font-weight:bold}
+.目錄題{font-size:x-large;font-weight:bold}
+.中標題{font-size:x-large;font-weight:bold}
+.宮調題{font-size:x-large;font-weight:bold}
+.th3b{margin-top:10px;margin-left:2em;font-size:x-large;font-weight:normal}
+.th3b:before{font-size:x-large;content:"✣ "}
+.xln{font-size:x-large;font-weight:normal}
+.小標題{font-size:x-large;font-weight:normal}
+.th4a{font-size:large;margin-left:2em;font-weight:bold}
+.th4a:before{font-size:large;content:"✻ "}
+.lb{font-size:large;font-weight:bold}
+.小小標題{font-size:large;font-weight:bold}
+.曲牌分類{font-size:large;font-weight:bold}
+.附傳題{font-size:large;font-weight:bold}
+.補標題{font-size:x-large;font-weight:normal}
+.音釋題{font-size:large;font-weight:bold}
+.序詩題{font-size:large;font-weight:bold}
+.作者{font-size:medium;text-align:right}
+.署名{font-size:medium;text-align:right}
+.引用曲{font-size:large;margin-top:10px;padding-left:2em;line-height:1.5em}
+.誦{font-size:large;margin-top:10px;padding-left:2em;line-height:1.5em}
+.正題{font-size:x-large;margin-top:10px;padding-left:4em;line-height:1.5em}
+.題目{font-size:x-large;margin-top:10px;padding-left:4em;line-height:1.5em}
+.正名{font-size:x-large;margin-top:10px;padding-left:4em;line-height:1.5em}
+.附傳{margin-top:10px;padding-left:2em}
+.按語{padding-left:3em}
+.補{padding-left:3em}
+.敘{margin-top:10px;padding-left:4em}
+.小序{font-size:medium;margin-top:10px;padding-left:2em}
+.聯套{line-height:2em}blockquote{margin-top:30px;padding-left:4em}
+.犯牌{font-weight:bold;font-size:75%;padding:2px 5px;margin:0px 5px;border:2px double black;border-radius:5px}
+.犯牌調{font-weight:bold;font-size:65%;padding:2px 5px;margin:0px 5px;border:2px double black;border-radius:5px}
+.犯牌注{font-size:small;background-color:lightgray}
+.引用曲題{font-weight:bold}
+.調{font-size:75%;padding:2px 5px;margin:0px 5px;border:1px solid black;border-radius:5px}
+.曲詞{font-size:medium}
+.襯字{font-size:large}
+.詩襯字{font-size:small}
+.押韻{font-size:x-small}
+.專名{text-decoration:none;border-bottom:0.5px solid}
+.人名{text-decoration:none;border-bottom:0.5px solid}
+.書名{text-decoration:none;border-bottom:0.5px dashed}
+.小字{font-size:60%}
+.注{font-size:x-small}
+.夾注{font-size:x-small;background-color:lightgray}
+.曲中詩{padding-left:4em;font-size:medium}
+.音注{}
+.字{font-size:medium;font-weight:bold;padding-left:6em;width :4em;float :left;clear :both}
+.音釋{font-size:medium;width :30em }
+.釋{font-size:medium;width :30em }#mw-content-text{font-family:serif;line-height:1.5em}
